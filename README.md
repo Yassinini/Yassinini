@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Machine Learning Student<br>⚙️ Looking to learn and document my journey to becoming an engineer<br>🪢 Python (Numpy, Pandas, Matplotlib, Sklearn), HTML & CSS, Java<br>🦾 3D Designer (Blender)<br>⚡ I aspire to become an engineer in big tech, working on my extras for college apps to follow my dream & passion.
+🔭 Machine Learning Self Study <br>⚙️Documenting my journey to becoming an AI/ML Engineer<br>🪢 Python (Numpy, Pandas, Matplotlib, Sklearn), HTML & CSS, Java<br>🦾 3D Designer (Blender)<br>⚡ I aspire to become an engineer in big tech, working on my extras for college apps to follow my dream & passion.
 
 
 ## 🌐 Socials:
