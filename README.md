@@ -15,5 +15,3 @@
 ![GitHub Stats](https://github-readme-stats-one-nora.vercel.app/api?username=Yassinini&theme=dark&hide_border=true&show_icons=true)
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yassinini&theme=dark&hide_border=true)
-<br/>
-![Top Langs](https://github-readme-stats-one-nora.vercel.app/api/top-langs/?username=Yassinini&theme=dark&hide_border=true&layout=compact)
