@@ -1,9 +1,9 @@
-# 💫 About Me:
-🔭 Machine Learning Student Focusing on Computer Vision
-⚙️ Currently documenting my journey from Student to Advanced Scientist
-🪢 Python (Numpy, Pandas, Matplotlib, Sklearn, OpenCV), HTML & CSS, Java
-🦾 3D Designer (Blender) & Hardware DIYer
-⚡ I aspire to become an engineer in Big Tech. Currently working on computer vision research to build a competitive portfolio for college apps.
+# 💫 About Me: <br>
+🔭 Machine Learning Student Focusing on Computer Vision<br>
+⚙️ Currently documenting my journey from Student to Advanced Scientist<br>
+🪢 Python (Numpy, Pandas, Matplotlib, Sklearn, OpenCV), HTML & CSS, Java<br>
+🦾 3D Designer (Blender) & Hardware DIYer<br>
+⚡ I aspire to become an engineer in Big Tech. Currently working on computer vision research to build a competitive portfolio for college apps.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shut_up_the_adults_are_talkinh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassin-mehana-54a485385) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/suupasta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yassinmehana2009@gmail.com) 
